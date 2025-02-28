@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I'm Hugo  
 
-<!--
-**hugogsld/hugogsld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about **data**, **deeptech**, and **venture capital**, I explore the intersection of technology and finance.  
+🎓 Currently pursuing a **dual degree in Data & Finance**, I develop innovative solutions by leveraging the power of data.  
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Skills  
+- 📊 **Data Science & Analytics**: Python (Pandas, NumPy, Scikit-learn), SQL  
+- 📱 **No-Code & Low-Code Development**: FlutterFlow  
+- 💡 **Finance & Data**: Financial data analysis, Modeling  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 What You'll Find Here  
+🔹 Projects combining **data and finance**  
+🔹 Experiments in **deeptech** and AI  
+🔹 Tools and automation  
+🔹 **Academic projects** from my studies  
+
+💡 Always looking for new challenges and collaborations!  
+
+📫 **Contact me**: [Add your email or LinkedIn here]  
+
+---  
+*"Transforming data into insights, and insights into impact."* 🚀  
