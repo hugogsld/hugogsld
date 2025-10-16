@@ -16,7 +16,7 @@
 
 💡 Always looking for new challenges and collaborations!  
 
-📫 **Contact me**: [Add your email or LinkedIn here]  
+📫 **Contact me**: hugo.gesland@edhec.com  
 
 ---  
 *"Transforming data into insights, and insights into impact."* 🚀  
