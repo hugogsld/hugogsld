@@ -16,7 +16,7 @@
 
 💡 Always looking for new challenges and collaborations!  
 
-📫 **Contact me**: hugo.gesland@edhec.com  
+📫 **Contact me**: hugo.gesland@etu.utc.fr  
 
 ---  
 *"Transforming data into insights, and insights into impact."* 🚀  
