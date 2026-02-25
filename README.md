@@ -4,8 +4,7 @@
 🎓 Currently pursuing a **dual degree in Data & Finance**, I develop innovative solutions by leveraging the power of data.  
 
 ## 🛠️ Technologies & Skills  
-- 📊 **Data Science & Analytics**: Python (Pandas, NumPy, Scikit-learn), SQL  
-- 📱 **No-Code & Low-Code Development**: FlutterFlow  
+- 📊 **Data Science & Analytics**: Python (Pandas, NumPy, Scikit-learn), SQL
 - 💡 **Finance & Data**: Financial data analysis, Modeling  
 
 ## 📈 What You'll Find Here  
