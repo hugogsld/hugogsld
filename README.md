@@ -39,8 +39,7 @@ You will find here my hackathon, entrepreneurial and academic projects, includin
 Feel free to contact me via my email or LinkedIn.
 
 📧 hugo.gesland@etu.utc.fr  
-🔗 https://www.linkedin.com/in/hugo-gesland-1233a2254/- Data-driven engineering projects  
-- Selected academic work  
+🔗 https://www.linkedin.com/in/hugo-gesland-1233a2254/
 
 ---
 
