@@ -3,7 +3,7 @@
 My name is Hugo Gesland, I am an engineering student in a **UTC × EDHEC Dual Degree (Data Engineering & Finance)**  
 Builder in **fashion tech**, working to reinvent how people consume and scale **second-hand**.
 
-I design and build data-driven products, from marketplace automation systems to AI-powered mobile applications.
+Currently a Founder Associate at Veeton, I am building a product designed for Vinted resellers and second-hand marketplace sellers.
 
 ## Technologies & Skills
 
@@ -22,16 +22,16 @@ I design and build data-driven products, from marketplace automation systems to 
 
 You will find here my hackathon, entrepreneurial and academic projects, including:
 
-- 🐨 **Koala**: X-HEC Impact Hackathon Finalist  
+- 🐨 **Koala**: X-HEC Impact Hackathon (Finalist)  
   Second-hand AI-powered shopping platform using an MCP server and Vinted API.
 
 - 🌿 **Escapade**: Start in Saclay Hackathon (4th place)  
   Environmental & local tourism solution designed to reduce traffic congestion and pollution.
 
-- 📱 **Drop**  
+- 📱 **Drop**: Personal project (co-founded) 
   Generative AI solution for second-hand resellers.
 
-- 👕 **Profited**  
+- 👕 **Profited**: Personal project (co-founded)
   Ultimate guide for resellers, including a Vinted sourcing bot and marketplace analytics tools.
 
 ## Contact
