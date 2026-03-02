@@ -8,9 +8,9 @@ I design and build data-driven products, from marketplace automation systems to 
 ## Technologies & Skills
 
 ### Engineering
-- **React Native** — End-to-end mobile applications (architecture → API integration → deployment)
-- **Python** — Data processing, automation, machine learning models
-- **SQL** — Database design, querying, optimization
+- **React Native**: End-to-end mobile applications (architecture → API integration → deployment)
+- **Python**: Data processing, automation, machine learning models
+- **SQL**: Database design, querying, optimization
 
 ### AI & Systems Integration
 - Integration of AI solutions (LLMs, automation tools, optimization systems)
