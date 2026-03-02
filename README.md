@@ -22,6 +22,24 @@ I design and build data-driven products — from marketplace automation systems 
 
 ---
 
+## 📂 Projects
+
+You will find here my **hackathon, entrepreneurial and academic projects**, including:
+
+- 🐨 **Koala** *(X-HEC Impact Hackathon – Finalist)*  
+  Second-hand AI-powered shopping platform using an MCP server and Vinted API.
+
+- 🌿 **Escapade** *(Start in Saclay – 4th place)*  
+  Environmental & local tourism solution designed to reduce traffic congestion and pollution.
+
+- 📱 **Drop**  
+  Generative AI solution for second-hand resellers.
+
+- 📊 **Profited**  
+  Ultimate guide for resellers, including a Vinted sourcing bot and marketplace analytics tools.
+
+---
+
 ## 📈 What You'll Find Here
 
 - End-to-end mobile applications built from scratch  
