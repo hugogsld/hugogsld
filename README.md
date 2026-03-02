@@ -25,7 +25,7 @@ You will find here my hackathon, entrepreneurial and academic projects, includin
 - 🐨 **Koala**: X-HEC Impact Hackathon Finalist  
   Second-hand AI-powered shopping platform using an MCP server and Vinted API.
 
-- 🌿 **Escapade**: Start in Saclay (4th place)  
+- 🌿 **Escapade**: Start in Saclay Hackathon (4th place)  
   Environmental & local tourism solution designed to reduce traffic congestion and pollution.
 
 - 📱 **Drop**  
