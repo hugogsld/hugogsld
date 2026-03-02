@@ -40,12 +40,3 @@ Feel free to contact me via my email or LinkedIn.
 
 📧 hugo.gesland@etu.utc.fr  
 🔗 https://www.linkedin.com/in/hugo-gesland-1233a2254/
-
----
-
-## 📬 Contact
-
-Feel free to contact me via my email or LinkedIn!
-
-📧 hugo.gesland@etu.utc.fr  
-🔗 https://www.linkedin.com/in/hugo-gesland-1233a2254/
