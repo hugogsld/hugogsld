@@ -1,9 +1,9 @@
 # Welcome 🚀
 
-Engineering student in a **UTC × EDHEC Dual Degree (Data Engineering & Finance)**  
-Builder in fashion tech, working to reinvent how people consume and scale second-hand.
+My name is Hugo Gesland, I am an engineering student in a **UTC × EDHEC Dual Degree (Data Engineering & Finance)**  
+Builder in **fashion tech**, working to reinvent how people consume and scale **second-hand**.
 
-I design and build data-driven products — from marketplace automation systems to AI-powered mobile applications.
+I design and build data-driven products, from marketplace automation systems to AI-powered mobile applications.
 
 ## Technologies & Skills
 
@@ -22,10 +22,10 @@ I design and build data-driven products — from marketplace automation systems 
 
 You will find here my hackathon, entrepreneurial and academic projects, including:
 
-- 🐨 **Koala** — X-HEC Impact Hackathon Finalist  
+- 🐨 **Koala** - X-HEC Impact Hackathon Finalist  
   Second-hand AI-powered shopping platform using an MCP server and Vinted API.
 
-- 🌿 **Escapade** — Start in Saclay (4th place)  
+- 🌿 **Escapade** - Start in Saclay (4th place)  
   Environmental & local tourism solution designed to reduce traffic congestion and pollution.
 
 - 📱 **Drop**  
