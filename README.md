@@ -1,7 +1,7 @@
-# 👋 Hello, I'm Hugo  
+Welcome!
 
-🚀 Passionate about **data**, **deeptech**, and **venture capital**, I explore the intersection of technology and finance.  
-🎓 Currently pursuing a **dual degree in Data & Finance**, I develop innovative solutions by leveraging the power of data.  
+My name is Hugo Gesland.
+I am an Engineering student in a **UTC × EDHEC Dual Degree (Data Engineering & Finance)** and a tech builder in **fashion tech**, trying to reinvent how people consume **second-hand**.
 
 ## 🛠️ Technologies & Skills  
 - 📊 **Data Science & Analytics**: Python (Pandas, NumPy, Scikit-learn), SQL
