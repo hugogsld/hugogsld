@@ -1,4 +1,4 @@
-# Hugo Gesland 🚀
+# Welcome 🚀
 
 Engineering student in a **UTC × EDHEC Dual Degree (Data Engineering & Finance)**  
 Builder in fashion tech, working to reinvent how people consume and scale second-hand.
